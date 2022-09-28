@@ -28,12 +28,22 @@ font blackletter, musical notation, hand-written additions, with title page</p>
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>GraphRegion</th>
+            <th>SepRegion</th>
+            <th>MusicRegion</th>
+            <th>NoiseRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>215</td>
+            <td>8</td>
+            <td>63</td>
+            <td>4</td>
+            <td>11</td>
+            <td>4</td>
+            <td>2</td>
          </tr>
       </tbody>
    </table>
@@ -62,7 +72,46 @@ font blackletter, musical notation, hand-written additions, with title page</p>
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>huebner_handbuch_1696</td>
+                  <td>25</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>78</td>
+                  <td>3</td>
+               </tr>
+               <tr>
+                  <td>silesius_seelenlust01_1657</td>
+                  <td>38</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>137</td>
+                  <td>5</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
