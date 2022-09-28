@@ -37,7 +37,7 @@ font blackletter, musical notation, hand-written additions, with title page</dd>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/17_frak_complex/releases/download/v2/bagitDump-v2.zip">Current version download: bagitDump-v2.zip</a>
+         <a href="https://github.com/tboenig/17_frak_complex/releases/download/v3/bagitDump-v3.zip">Current version download: bagitDump-v3.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/17_frak_complex/releases">Version archive</a>
@@ -56,6 +56,31 @@ font blackletter, musical notation, hand-written additions, with title page</dd>
                   <dd>TextLine</dd>
                   <dt>Page</dt>
                   <dd>Page</dd>
+                  <dt>TxtRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lytextregion.html"
+                        target="_blank">TextRegion</a>
+                  </dd>
+                  <dt>GraphRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyGraphik.html"
+                        target="_blank">GraphicRegion</a>
+                  </dd>
+                  <dt>SepRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lySeparatoren.html"
+                        target="_blank">SeperatorRegion</a>
+                  </dd>
+                  <dt>MusicRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyNotenzeichen.html"
+                        target="_blank">MusicRegion</a>
+                  </dd>
+                  <dt>NoiseRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyRauschen.html"
+                        target="_blank">NoiseRegion</a>
+                  </dd>
                </dl>
             </details>
          </td>
@@ -67,6 +92,21 @@ font blackletter, musical notation, hand-written additions, with title page</dd>
                <button onclick="document.getElementById('table_id').classList.toggle('hide2')">
                   <i>Page</i>
                </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide3')">
+                  <i>TxtRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide6')">
+                  <i>GraphRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide9')">
+                  <i>SepRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide12')">
+                  <i>MusicRegion</i>
+               </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide14')">
+                  <i>NoiseRegion</i>
+               </button>
             </div>
          </td>
       </tr>
@@ -76,12 +116,22 @@ font blackletter, musical notation, hand-written additions, with title page</dd>
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>GraphRegion</th>
+            <th>SepRegion</th>
+            <th>MusicRegion</th>
+            <th>NoiseRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>215</td>
+            <td>8</td>
+            <td>63</td>
+            <td>4</td>
+            <td>11</td>
+            <td>4</td>
+            <td>2</td>
          </tr>
       </tbody>
    </table>
