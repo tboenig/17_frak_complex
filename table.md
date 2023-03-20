@@ -240,6 +240,27 @@ font blackletter, musical notation, hand-written additions, with title page</dd>
                         </thead>
                         <tr>
                            <td>
+                              <a href="https://github.com/tboenig/17_frak_complex/blob/main/data/huebner_handbuch_1696/GT-PAGE/huebner_handbuch_1696_0015.xml">huebner_handbuch_1696_0015.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>10</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
                               <a href="https://github.com/tboenig/17_frak_complex/blob/main/data/huebner_handbuch_1696/GT-PAGE/huebner_handbuch_1696_0005.xml">huebner_handbuch_1696_0005.xml</a>
                            </td>
                            <td>18</td>
@@ -277,27 +298,6 @@ font blackletter, musical notation, hand-written additions, with title page</dd>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_frak_complex/blob/main/data/huebner_handbuch_1696/GT-PAGE/huebner_handbuch_1696_0015.xml">huebner_handbuch_1696_0015.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>10</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                         </tr>
@@ -352,20 +352,20 @@ font blackletter, musical notation, hand-written additions, with title page</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_frak_complex/blob/main/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0021.xml">silesius_seelenlust01_1657_0021.xml</a>
+                              <a href="https://github.com/tboenig/17_frak_complex/blob/main/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0009.xml">silesius_seelenlust01_1657_0009.xml</a>
                            </td>
-                           <td>17</td>
+                           <td>21</td>
                            <td>1</td>
-                           <td>9</td>
+                           <td>6</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
@@ -394,48 +394,6 @@ font blackletter, musical notation, hand-written additions, with title page</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_frak_complex/blob/main/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0423.xml">silesius_seelenlust01_1657_0423.xml</a>
-                           </td>
-                           <td>52</td>
-                           <td>1</td>
-                           <td>12</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_frak_complex/blob/main/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0009.xml">silesius_seelenlust01_1657_0009.xml</a>
-                           </td>
-                           <td>21</td>
-                           <td>1</td>
-                           <td>6</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
                               <a href="https://github.com/tboenig/17_frak_complex/blob/main/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0022.xml">silesius_seelenlust01_1657_0022.xml</a>
                            </td>
                            <td>28</td>
@@ -447,6 +405,48 @@ font blackletter, musical notation, hand-written additions, with title page</dd>
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_frak_complex/blob/main/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0021.xml">silesius_seelenlust01_1657_0021.xml</a>
+                           </td>
+                           <td>17</td>
+                           <td>1</td>
+                           <td>9</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_frak_complex/blob/main/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0423.xml">silesius_seelenlust01_1657_0423.xml</a>
+                           </td>
+                           <td>52</td>
+                           <td>1</td>
+                           <td>12</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>

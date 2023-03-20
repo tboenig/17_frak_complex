@@ -134,6 +134,25 @@
    </thead>
    <tbody>
       <tr>
+         <th>huebner_handbuch_1696_0015.xml</th>
+         <td>10</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>27</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>huebner_handbuch_1696_0005.xml</th>
          <td>6</td>
          <td>0</td>
@@ -172,14 +191,8 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>huebner_handbuch_1696_0015.xml</th>
-         <td>10</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
+         <th>silesius_seelenlust01_1657_0009.xml</th>
+         <td>6</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -187,26 +200,13 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>27</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>silesius_seelenlust01_1657_0021.xml</th>
-         <td>9</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>2</td>
          <td>0</td>
-         <td>0</td>
-         <td>4</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>17</td>
+         <td>21</td>
          <td>1</td>
       </tr>
       <tr>
@@ -229,44 +229,6 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>silesius_seelenlust01_1657_0423.xml</th>
-         <td>12</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>2</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>52</td>
-         <td>1</td>
-      </tr>
-      <tr>
-         <th>silesius_seelenlust01_1657_0009.xml</th>
-         <td>6</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>21</td>
-         <td>1</td>
-      </tr>
-      <tr>
          <th>silesius_seelenlust01_1657_0022.xml</th>
          <td>7</td>
          <td>0</td>
@@ -283,6 +245,44 @@
          <td>0</td>
          <td>0</td>
          <td>28</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>silesius_seelenlust01_1657_0021.xml</th>
+         <td>9</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>17</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>silesius_seelenlust01_1657_0423.xml</th>
+         <td>12</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>2</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>52</td>
          <td>1</td>
       </tr>
    </tbody>
