@@ -182,7 +182,7 @@ jobs:
             <dt>Version:</dt> 
             <dd>${{ github.ref_name }}</dd>
             <dt>Info:</dt>
-            <dd>To use the Ground Truth download the bagitDump-v${{ github.run_number }}.zip file.<br/>
+            <dd>To use the Ground Truth download the bagitDump-v${{ github.run_number }}.zip file. <br/>
             The zip file contains all ocr-d-bagit files.<br/>
             The Metadata.json file contains metadata for the Ground Truth corpus.<br/>
             The Mets.xml file lists all containing documents/bagits.<br/>
