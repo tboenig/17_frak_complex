@@ -74,25 +74,6 @@ font blackletter, musical notation, hand-written additions, with title page</p>
             </thead>
             <tbody>
                <tr>
-                  <td>huebner_handbuch_1696</td>
-                  <td>25</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>78</td>
-                  <td>3</td>
-               </tr>
-               <tr>
                   <td>silesius_seelenlust01_1657</td>
                   <td>38</td>
                   <td/>
@@ -110,6 +91,25 @@ font blackletter, musical notation, hand-written additions, with title page</p>
                   <td/>
                   <td>137</td>
                   <td>5</td>
+               </tr>
+               <tr>
+                  <td>huebner_handbuch_1696</td>
+                  <td>25</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>78</td>
+                  <td>3</td>
                </tr>
             </tbody>
          </table>
