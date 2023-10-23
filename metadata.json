@@ -60,9 +60,10 @@
     "granularity/physical/document-related/region",
     "data-attributes/document-related/visual/text/font/multi-font/typefaces",
     "data-attributes/document-related/visual/text/font/multi-font/font-sizes",
+    "data-attributes/language/mixed",
     "condition/production-related/document-faults/ink-from-facing",
-    "condition/wear/additions/informative/annotations",
-    "condition/acquisition/content-or-background/included-objects/preceeding-or-proceeding",
+    "condition/acquisition/geometric/perspective-distortions",
+    "condition/acquisition/geometric/page-curl",
     "content-type/corpus",
     "platform/platform-independent",
     "content-encoding/structured",
@@ -79,8 +80,7 @@
     "data-attributes/document-related/visual/text/drop-caps",
     "data-attributes/document-related/visual/text/font/typeface/blackletter",
     "data-attributes/document-related/visual/text/font/typeface/antiqua",
-    "data-attributes/language/mixed",
-    "condition/acquisition/geometric/perspective-distortions",
-    "condition/acquisition/geometric/page-curl"
+    "condition/wear/additions/informative/annotations",
+    "condition/acquisition/content-or-background/included-objects/preceeding-or-proceeding"
   ]
 }

@@ -194,118 +194,6 @@ font blackletter, musical notation, hand-written additions, with title page</dd>
          </thead>
          <tbody>
             <tr>
-               <th>huebner_handbuch_1696</th>
-               <td>78</td>
-               <td>3</td>
-               <td>25</td>
-               <td>0</td>
-               <td>0</td>
-               <td>3</td>
-               <td>0</td>
-               <td>0</td>
-               <td>4</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>2</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.0.1/data/huebner_handbuch_1696/GT-PAGE/huebner_handbuch_1696_0015.xml">huebner_handbuch_1696_0015.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>10</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>2</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.0.1/data/huebner_handbuch_1696/GT-PAGE/huebner_handbuch_1696_0005.xml">huebner_handbuch_1696_0005.xml</a>
-                           </td>
-                           <td>18</td>
-                           <td>1</td>
-                           <td>6</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.0.1/data/huebner_handbuch_1696/GT-PAGE/huebner_handbuch_1696_0021.xml">huebner_handbuch_1696_0021.xml</a>
-                           </td>
-                           <td>33</td>
-                           <td>1</td>
-                           <td>9</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
                <th>silesius_seelenlust01_1657</th>
                <td>137</td>
                <td>5</td>
@@ -352,35 +240,14 @@ font blackletter, musical notation, hand-written additions, with title page</dd>
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.0.1/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0009.xml">silesius_seelenlust01_1657_0009.xml</a>
+                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.1.1/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0423.xml">silesius_seelenlust01_1657_0423.xml</a>
                            </td>
-                           <td>21</td>
+                           <td>52</td>
                            <td>1</td>
-                           <td>6</td>
+                           <td>12</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.0.1/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0010.xml">silesius_seelenlust01_1657_0010.xml</a>
-                           </td>
-                           <td>19</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>2</td>
@@ -394,28 +261,7 @@ font blackletter, musical notation, hand-written additions, with title page</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.0.1/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0022.xml">silesius_seelenlust01_1657_0022.xml</a>
-                           </td>
-                           <td>28</td>
-                           <td>1</td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.0.1/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0021.xml">silesius_seelenlust01_1657_0021.xml</a>
+                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.1.1/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0021.xml">silesius_seelenlust01_1657_0021.xml</a>
                            </td>
                            <td>17</td>
                            <td>1</td>
@@ -436,14 +282,56 @@ font blackletter, musical notation, hand-written additions, with title page</dd>
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.0.1/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0423.xml">silesius_seelenlust01_1657_0423.xml</a>
+                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.1.1/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0022.xml">silesius_seelenlust01_1657_0022.xml</a>
                            </td>
-                           <td>52</td>
+                           <td>28</td>
                            <td>1</td>
-                           <td>12</td>
+                           <td>7</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.1.1/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0009.xml">silesius_seelenlust01_1657_0009.xml</a>
+                           </td>
+                           <td>21</td>
+                           <td>1</td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.1.1/data/silesius_seelenlust01_1657/GT-PAGE/silesius_seelenlust01_1657_0010.xml">silesius_seelenlust01_1657_0010.xml</a>
+                           </td>
+                           <td>19</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                            <td>2</td>
@@ -452,6 +340,118 @@ font blackletter, musical notation, hand-written additions, with title page</dd>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>huebner_handbuch_1696</th>
+               <td>78</td>
+               <td>3</td>
+               <td>25</td>
+               <td>0</td>
+               <td>0</td>
+               <td>3</td>
+               <td>0</td>
+               <td>0</td>
+               <td>4</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>2</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.1.1/data/huebner_handbuch_1696/GT-PAGE/huebner_handbuch_1696_0015.xml">huebner_handbuch_1696_0015.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>10</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>2</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.1.1/data/huebner_handbuch_1696/GT-PAGE/huebner_handbuch_1696_0005.xml">huebner_handbuch_1696_0005.xml</a>
+                           </td>
+                           <td>18</td>
+                           <td>1</td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/17_frak_complex/blob/v1.1.1/data/huebner_handbuch_1696/GT-PAGE/huebner_handbuch_1696_0021.xml">huebner_handbuch_1696_0021.xml</a>
+                           </td>
+                           <td>33</td>
+                           <td>1</td>
+                           <td>9</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
                            <td>0</td>
                            <td>0</td>
                         </tr>
